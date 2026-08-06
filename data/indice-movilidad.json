@@ -1,7 +1,7 @@
 {
   "meta": {
     "nombre": "Índice de Movilidad VisaMundial (IMV)",
-    "version": "2026.1",
+    "version": "2026.2",
     "actualizado": "2026-08-06",
     "licencia": "CC-BY-4.0",
     "atribucion": "VisaMundial.com",
@@ -9,7 +9,8 @@
     "formula": "IMV = destinos sin visa + visa a la llegada + autorización electrónica (eTA). Excluye e-visa: una e-visa sigue siendo una solicitud previa.",
     "pasaportes": 199,
     "destinos": 199,
-    "fuente_base": "Matriz abierta passport-index-data (MIT), contrastada con las guías propias de VisaMundial verificadas contra fuentes oficiales."
+    "fuente_base": "Matriz abierta passport-index-data (MIT), contrastada con las guías propias de VisaMundial verificadas contra fuentes oficiales.",
+    "verificacion": "Arbitraje contra fuentes oficiales aplicado a 52 destinos (229 pares)."
   },
   "codigos": {
     "F": "sin visa",
@@ -73,20 +74,6 @@
       "rank": 4
     },
     {
-      "iso": "ES",
-      "nombre": "España",
-      "sin_visa": 122,
-      "visa_llegada": 28,
-      "eta": 11,
-      "evisa": 25,
-      "visa_previa": 12,
-      "no_admision": 0,
-      "imv": 161,
-      "imv_amplio": 186,
-      "rank": 5,
-      "rank_latam": 1
-    },
-    {
       "iso": "DE",
       "nombre": "Alemania",
       "sin_visa": 122,
@@ -97,7 +84,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 184,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "BE",
@@ -110,7 +97,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 184,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "DK",
@@ -123,7 +110,21 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
+    },
+    {
+      "iso": "ES",
+      "nombre": "España",
+      "sin_visa": 122,
+      "visa_llegada": 28,
+      "eta": 10,
+      "evisa": 27,
+      "visa_previa": 11,
+      "no_admision": 0,
+      "imv": 160,
+      "imv_amplio": 187,
+      "rank": 5,
+      "rank_latam": 1
     },
     {
       "iso": "FI",
@@ -136,7 +137,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "FR",
@@ -149,7 +150,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 184,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "IE",
@@ -162,7 +163,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "IT",
@@ -175,7 +176,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 184,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "LU",
@@ -188,7 +189,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "MY",
@@ -201,7 +202,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 183,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "NO",
@@ -214,7 +215,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "NL",
@@ -227,7 +228,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "SE",
@@ -240,7 +241,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "CH",
@@ -253,7 +254,7 @@
       "no_admision": 0,
       "imv": 160,
       "imv_amplio": 185,
-      "rank": 6
+      "rank": 5
     },
     {
       "iso": "AT",
@@ -545,13 +546,13 @@
       "iso": "US",
       "nombre": "Estados Unidos",
       "sin_visa": 112,
-      "visa_llegada": 32,
-      "eta": 9,
-      "evisa": 27,
-      "visa_previa": 18,
-      "no_admision": 0,
+      "visa_llegada": 31,
+      "eta": 10,
+      "evisa": 29,
+      "visa_previa": 14,
+      "no_admision": 2,
       "imv": 153,
-      "imv_amplio": 180,
+      "imv_amplio": 182,
       "rank": 41
     },
     {
@@ -584,12 +585,12 @@
       "iso": "BR",
       "nombre": "Brasil",
       "sin_visa": 110,
-      "visa_llegada": 31,
+      "visa_llegada": 30,
       "eta": 8,
-      "evisa": 27,
+      "evisa": 28,
       "visa_previa": 22,
       "no_admision": 0,
-      "imv": 149,
+      "imv": 148,
       "imv_amplio": 176,
       "rank": 44,
       "rank_latam": 2
@@ -598,26 +599,12 @@
       "iso": "AR",
       "nombre": "Argentina",
       "sin_visa": 106,
-      "visa_llegada": 34,
-      "eta": 8,
-      "evisa": 29,
-      "visa_previa": 21,
-      "no_admision": 0,
-      "imv": 148,
-      "imv_amplio": 177,
-      "rank": 45,
-      "rank_latam": 3
-    },
-    {
-      "iso": "CL",
-      "nombre": "Chile",
-      "sin_visa": 105,
       "visa_llegada": 33,
-      "eta": 10,
-      "evisa": 29,
+      "eta": 8,
+      "evisa": 30,
       "visa_previa": 21,
       "no_admision": 0,
-      "imv": 148,
+      "imv": 147,
       "imv_amplio": 177,
       "rank": 45,
       "rank_latam": 3
@@ -633,7 +620,21 @@
       "no_admision": 0,
       "imv": 146,
       "imv_amplio": 176,
-      "rank": 47
+      "rank": 46
+    },
+    {
+      "iso": "CL",
+      "nombre": "Chile",
+      "sin_visa": 105,
+      "visa_llegada": 31,
+      "eta": 10,
+      "evisa": 30,
+      "visa_previa": 22,
+      "no_admision": 0,
+      "imv": 146,
+      "imv_amplio": 176,
+      "rank": 46,
+      "rank_latam": 4
     },
     {
       "iso": "SM",
@@ -701,34 +702,6 @@
       "rank": 51
     },
     {
-      "iso": "UY",
-      "nombre": "Uruguay",
-      "sin_visa": 96,
-      "visa_llegada": 32,
-      "eta": 9,
-      "evisa": 35,
-      "visa_previa": 26,
-      "no_admision": 0,
-      "imv": 137,
-      "imv_amplio": 172,
-      "rank": 53,
-      "rank_latam": 5
-    },
-    {
-      "iso": "MX",
-      "nombre": "México",
-      "sin_visa": 96,
-      "visa_llegada": 31,
-      "eta": 9,
-      "evisa": 36,
-      "visa_previa": 26,
-      "no_admision": 0,
-      "imv": 136,
-      "imv_amplio": 172,
-      "rank": 54,
-      "rank_latam": 6
-    },
-    {
       "iso": "KN",
       "nombre": "San Cristóbal y Nieves",
       "sin_visa": 103,
@@ -739,7 +712,21 @@
       "no_admision": 0,
       "imv": 136,
       "imv_amplio": 170,
-      "rank": 54
+      "rank": 53
+    },
+    {
+      "iso": "UY",
+      "nombre": "Uruguay",
+      "sin_visa": 97,
+      "visa_llegada": 31,
+      "eta": 8,
+      "evisa": 36,
+      "visa_previa": 26,
+      "no_admision": 0,
+      "imv": 136,
+      "imv_amplio": 172,
+      "rank": 53,
+      "rank_latam": 5
     },
     {
       "iso": "VC",
@@ -752,7 +739,7 @@
       "no_admision": 0,
       "imv": 135,
       "imv_amplio": 170,
-      "rank": 56
+      "rank": 55
     },
     {
       "iso": "VA",
@@ -765,7 +752,21 @@
       "no_admision": 0,
       "imv": 135,
       "imv_amplio": 165,
-      "rank": 56
+      "rank": 55
+    },
+    {
+      "iso": "MX",
+      "nombre": "México",
+      "sin_visa": 96,
+      "visa_llegada": 29,
+      "eta": 9,
+      "evisa": 37,
+      "visa_previa": 27,
+      "no_admision": 0,
+      "imv": 134,
+      "imv_amplio": 171,
+      "rank": 57,
+      "rank_latam": 6
     },
     {
       "iso": "SC",
@@ -778,21 +779,7 @@
       "no_admision": 0,
       "imv": 134,
       "imv_amplio": 168,
-      "rank": 58
-    },
-    {
-      "iso": "PE",
-      "nombre": "Perú",
-      "sin_visa": 91,
-      "visa_llegada": 34,
-      "eta": 8,
-      "evisa": 36,
-      "visa_previa": 29,
-      "no_admision": 0,
-      "imv": 133,
-      "imv_amplio": 169,
-      "rank": 59,
-      "rank_latam": 7
+      "rank": 57
     },
     {
       "iso": "AG",
@@ -805,7 +792,21 @@
       "no_admision": 0,
       "imv": 132,
       "imv_amplio": 168,
-      "rank": 60
+      "rank": 59
+    },
+    {
+      "iso": "PE",
+      "nombre": "Perú",
+      "sin_visa": 91,
+      "visa_llegada": 32,
+      "eta": 8,
+      "evisa": 38,
+      "visa_previa": 29,
+      "no_admision": 0,
+      "imv": 131,
+      "imv_amplio": 169,
+      "rank": 60,
+      "rank_latam": 7
     },
     {
       "iso": "UA",
@@ -818,7 +819,7 @@
       "no_admision": 0,
       "imv": 131,
       "imv_amplio": 165,
-      "rank": 61
+      "rank": 60
     },
     {
       "iso": "MO",
@@ -834,20 +835,6 @@
       "rank": 62
     },
     {
-      "iso": "CR",
-      "nombre": "Costa Rica",
-      "sin_visa": 90,
-      "visa_llegada": 31,
-      "eta": 7,
-      "evisa": 42,
-      "visa_previa": 28,
-      "no_admision": 0,
-      "imv": 128,
-      "imv_amplio": 170,
-      "rank": 63,
-      "rank_latam": 8
-    },
-    {
       "iso": "GD",
       "nombre": "Granada",
       "sin_visa": 97,
@@ -861,6 +848,20 @@
       "rank": 63
     },
     {
+      "iso": "CR",
+      "nombre": "Costa Rica",
+      "sin_visa": 91,
+      "visa_llegada": 29,
+      "eta": 7,
+      "evisa": 43,
+      "visa_previa": 28,
+      "no_admision": 0,
+      "imv": 127,
+      "imv_amplio": 170,
+      "rank": 64,
+      "rank_latam": 8
+    },
+    {
       "iso": "MU",
       "nombre": "Mauricio",
       "sin_visa": 94,
@@ -871,21 +872,7 @@
       "no_admision": 0,
       "imv": 127,
       "imv_amplio": 163,
-      "rank": 65
-    },
-    {
-      "iso": "PY",
-      "nombre": "Paraguay",
-      "sin_visa": 86,
-      "visa_llegada": 34,
-      "eta": 7,
-      "evisa": 40,
-      "visa_previa": 31,
-      "no_admision": 0,
-      "imv": 127,
-      "imv_amplio": 167,
-      "rank": 65,
-      "rank_latam": 9
+      "rank": 64
     },
     {
       "iso": "TT",
@@ -898,19 +885,33 @@
       "no_admision": 0,
       "imv": 127,
       "imv_amplio": 168,
-      "rank": 65
+      "rank": 64
+    },
+    {
+      "iso": "PY",
+      "nombre": "Paraguay",
+      "sin_visa": 86,
+      "visa_llegada": 34,
+      "eta": 6,
+      "evisa": 42,
+      "visa_previa": 30,
+      "no_admision": 0,
+      "imv": 126,
+      "imv_amplio": 168,
+      "rank": 67,
+      "rank_latam": 9
     },
     {
       "iso": "PA",
       "nombre": "Panamá",
       "sin_visa": 88,
       "visa_llegada": 31,
-      "eta": 7,
-      "evisa": 40,
-      "visa_previa": 32,
+      "eta": 6,
+      "evisa": 42,
+      "visa_previa": 31,
       "no_admision": 0,
-      "imv": 126,
-      "imv_amplio": 166,
+      "imv": 125,
+      "imv_amplio": 167,
       "rank": 68,
       "rank_latam": 10
     },
@@ -925,7 +926,7 @@
       "no_admision": 0,
       "imv": 125,
       "imv_amplio": 165,
-      "rank": 69
+      "rank": 68
     },
     {
       "iso": "DM",
@@ -980,20 +981,6 @@
       "rank": 72
     },
     {
-      "iso": "CO",
-      "nombre": "Colombia",
-      "sin_visa": 84,
-      "visa_llegada": 29,
-      "eta": 4,
-      "evisa": 44,
-      "visa_previa": 37,
-      "no_admision": 0,
-      "imv": 117,
-      "imv_amplio": 161,
-      "rank": 74,
-      "rank_latam": 11
-    },
-    {
       "iso": "MK",
       "nombre": "Macedonia del Norte",
       "sin_visa": 80,
@@ -1022,13 +1009,27 @@
     {
       "iso": "SV",
       "nombre": "El Salvador",
-      "sin_visa": 79,
-      "visa_llegada": 31,
+      "sin_visa": 80,
+      "visa_llegada": 30,
       "eta": 6,
-      "evisa": 45,
-      "visa_previa": 37,
+      "evisa": 44,
+      "visa_previa": 38,
       "no_admision": 0,
       "imv": 116,
+      "imv_amplio": 160,
+      "rank": 76,
+      "rank_latam": 11
+    },
+    {
+      "iso": "CO",
+      "nombre": "Colombia",
+      "sin_visa": 84,
+      "visa_llegada": 27,
+      "eta": 4,
+      "evisa": 46,
+      "visa_previa": 37,
+      "no_admision": 0,
+      "imv": 115,
       "imv_amplio": 161,
       "rank": 77,
       "rank_latam": 12
@@ -1044,35 +1045,7 @@
       "no_admision": 0,
       "imv": 115,
       "imv_amplio": 159,
-      "rank": 78
-    },
-    {
-      "iso": "GT",
-      "nombre": "Guatemala",
-      "sin_visa": 78,
-      "visa_llegada": 29,
-      "eta": 7,
-      "evisa": 49,
-      "visa_previa": 35,
-      "no_admision": 0,
-      "imv": 114,
-      "imv_amplio": 163,
-      "rank": 79,
-      "rank_latam": 13
-    },
-    {
-      "iso": "HN",
-      "nombre": "Honduras",
-      "sin_visa": 78,
-      "visa_llegada": 30,
-      "eta": 6,
-      "evisa": 46,
-      "visa_previa": 38,
-      "no_admision": 0,
-      "imv": 114,
-      "imv_amplio": 160,
-      "rank": 79,
-      "rank_latam": 13
+      "rank": 77
     },
     {
       "iso": "RU",
@@ -1101,6 +1074,20 @@
       "rank": 79
     },
     {
+      "iso": "GT",
+      "nombre": "Guatemala",
+      "sin_visa": 78,
+      "visa_llegada": 29,
+      "eta": 6,
+      "evisa": 49,
+      "visa_previa": 36,
+      "no_admision": 0,
+      "imv": 113,
+      "imv_amplio": 162,
+      "rank": 81,
+      "rank_latam": 13
+    },
+    {
       "iso": "TW",
       "nombre": "Taiwán",
       "sin_visa": 74,
@@ -1111,7 +1098,21 @@
       "no_admision": 3,
       "imv": 113,
       "imv_amplio": 157,
-      "rank": 83
+      "rank": 81
+    },
+    {
+      "iso": "HN",
+      "nombre": "Honduras",
+      "sin_visa": 79,
+      "visa_llegada": 28,
+      "eta": 5,
+      "evisa": 46,
+      "visa_previa": 40,
+      "no_admision": 0,
+      "imv": 112,
+      "imv_amplio": 158,
+      "rank": 83,
+      "rank_latam": 14
     },
     {
       "iso": "KI",
@@ -1124,7 +1125,7 @@
       "no_admision": 0,
       "imv": 112,
       "imv_amplio": 159,
-      "rank": 84
+      "rank": 83
     },
     {
       "iso": "TO",
@@ -1137,7 +1138,7 @@
       "no_admision": 0,
       "imv": 112,
       "imv_amplio": 156,
-      "rank": 84
+      "rank": 83
     },
     {
       "iso": "TR",
@@ -1179,20 +1180,6 @@
       "rank": 87
     },
     {
-      "iso": "NI",
-      "nombre": "Nicaragua",
-      "sin_visa": 74,
-      "visa_llegada": 30,
-      "eta": 6,
-      "evisa": 47,
-      "visa_previa": 41,
-      "no_admision": 0,
-      "imv": 110,
-      "imv_amplio": 157,
-      "rank": 87,
-      "rank_latam": 15
-    },
-    {
       "iso": "MD",
       "nombre": "Moldavia",
       "sin_visa": 73,
@@ -1203,21 +1190,35 @@
       "no_admision": 0,
       "imv": 109,
       "imv_amplio": 149,
-      "rank": 90
+      "rank": 89
+    },
+    {
+      "iso": "NI",
+      "nombre": "Nicaragua",
+      "sin_visa": 73,
+      "visa_llegada": 30,
+      "eta": 4,
+      "evisa": 48,
+      "visa_previa": 43,
+      "no_admision": 0,
+      "imv": 107,
+      "imv_amplio": 155,
+      "rank": 90,
+      "rank_latam": 15
     },
     {
       "iso": "VE",
       "nombre": "Venezuela",
       "sin_visa": 70,
-      "visa_llegada": 35,
-      "eta": 4,
-      "evisa": 41,
+      "visa_llegada": 34,
+      "eta": 3,
+      "evisa": 43,
       "visa_previa": 48,
       "no_admision": 0,
-      "imv": 109,
+      "imv": 107,
       "imv_amplio": 150,
       "rank": 90,
-      "rank_latam": 16
+      "rank_latam": 15
     },
     {
       "iso": "AL",
@@ -1350,20 +1351,6 @@
       "rank": 99
     },
     {
-      "iso": "EC",
-      "nombre": "Ecuador",
-      "sin_visa": 45,
-      "visa_llegada": 33,
-      "eta": 7,
-      "evisa": 37,
-      "visa_previa": 76,
-      "no_admision": 0,
-      "imv": 85,
-      "imv_amplio": 122,
-      "rank": 102,
-      "rank_latam": 17
-    },
-    {
       "iso": "TL",
       "nombre": "Timor Oriental",
       "sin_visa": 55,
@@ -1377,6 +1364,20 @@
       "rank": 102
     },
     {
+      "iso": "EC",
+      "nombre": "Ecuador",
+      "sin_visa": 45,
+      "visa_llegada": 32,
+      "eta": 7,
+      "evisa": 38,
+      "visa_previa": 76,
+      "no_admision": 0,
+      "imv": 84,
+      "imv_amplio": 122,
+      "rank": 103,
+      "rank_latam": 17
+    },
+    {
       "iso": "JM",
       "nombre": "Jamaica",
       "sin_visa": 55,
@@ -1387,7 +1388,7 @@
       "no_admision": 0,
       "imv": 84,
       "imv_amplio": 127,
-      "rank": 104
+      "rank": 103
     },
     {
       "iso": "GY",
@@ -1572,20 +1573,6 @@
       "rank": 118
     },
     {
-      "iso": "BO",
-      "nombre": "Bolivia",
-      "sin_visa": 33,
-      "visa_llegada": 34,
-      "eta": 4,
-      "evisa": 48,
-      "visa_previa": 79,
-      "no_admision": 0,
-      "imv": 71,
-      "imv_amplio": 119,
-      "rank": 118,
-      "rank_latam": 18
-    },
-    {
       "iso": "MA",
       "nombre": "Marruecos",
       "sin_visa": 42,
@@ -1599,6 +1586,20 @@
       "rank": 118
     },
     {
+      "iso": "BO",
+      "nombre": "Bolivia",
+      "sin_visa": 33,
+      "visa_llegada": 33,
+      "eta": 4,
+      "evisa": 51,
+      "visa_previa": 77,
+      "no_admision": 0,
+      "imv": 70,
+      "imv_amplio": 121,
+      "rank": 120,
+      "rank_latam": 18
+    },
+    {
       "iso": "LS",
       "nombre": "Lesoto",
       "sin_visa": 42,
@@ -1609,7 +1610,7 @@
       "no_admision": 0,
       "imv": 70,
       "imv_amplio": 110,
-      "rank": 121
+      "rank": 120
     },
     {
       "iso": "SR",
@@ -1622,7 +1623,7 @@
       "no_admision": 0,
       "imv": 70,
       "imv_amplio": 116,
-      "rank": 121
+      "rank": 120
     },
     {
       "iso": "NA",
@@ -1677,20 +1678,6 @@
       "rank": 125
     },
     {
-      "iso": "DO",
-      "nombre": "República Dominicana",
-      "sin_visa": 30,
-      "visa_llegada": 33,
-      "eta": 4,
-      "evisa": 46,
-      "visa_previa": 85,
-      "no_admision": 0,
-      "imv": 67,
-      "imv_amplio": 113,
-      "rank": 125,
-      "rank_latam": 19
-    },
-    {
       "iso": "KE",
       "nombre": "Kenia",
       "sin_visa": 38,
@@ -1701,7 +1688,21 @@
       "no_admision": 0,
       "imv": 66,
       "imv_amplio": 108,
-      "rank": 128
+      "rank": 127
+    },
+    {
+      "iso": "DO",
+      "nombre": "República Dominicana",
+      "sin_visa": 31,
+      "visa_llegada": 31,
+      "eta": 4,
+      "evisa": 47,
+      "visa_previa": 85,
+      "no_admision": 0,
+      "imv": 66,
+      "imv_amplio": 113,
+      "rank": 127,
+      "rank_latam": 19
     },
     {
       "iso": "TZ",
@@ -1714,7 +1715,7 @@
       "no_admision": 0,
       "imv": 66,
       "imv_amplio": 105,
-      "rank": 128
+      "rank": 127
     },
     {
       "iso": "GM",
@@ -1925,20 +1926,6 @@
       "rank": 145
     },
     {
-      "iso": "CU",
-      "nombre": "Cuba",
-      "sin_visa": 27,
-      "visa_llegada": 26,
-      "eta": 3,
-      "evisa": 49,
-      "visa_previa": 93,
-      "no_admision": 0,
-      "imv": 56,
-      "imv_amplio": 105,
-      "rank": 146,
-      "rank_latam": 20
-    },
-    {
       "iso": "GA",
       "nombre": "Gabón",
       "sin_visa": 27,
@@ -1978,6 +1965,20 @@
       "rank": 146
     },
     {
+      "iso": "CU",
+      "nombre": "Cuba",
+      "sin_visa": 27,
+      "visa_llegada": 25,
+      "eta": 3,
+      "evisa": 51,
+      "visa_previa": 92,
+      "no_admision": 0,
+      "imv": 55,
+      "imv_amplio": 106,
+      "rank": 149,
+      "rank_latam": 20
+    },
+    {
       "iso": "IN",
       "nombre": "India",
       "sin_visa": 26,
@@ -1988,7 +1989,7 @@
       "no_admision": 0,
       "imv": 55,
       "imv_amplio": 110,
-      "rank": 150
+      "rank": 149
     },
     {
       "iso": "TJ",
@@ -2001,7 +2002,7 @@
       "no_admision": 0,
       "imv": 55,
       "imv_amplio": 104,
-      "rank": 150
+      "rank": 149
     },
     {
       "iso": "TG",
@@ -2014,7 +2015,7 @@
       "no_admision": 0,
       "imv": 55,
       "imv_amplio": 101,
-      "rank": 150
+      "rank": 149
     },
     {
       "iso": "DZ",

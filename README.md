@@ -35,8 +35,8 @@ prefiera la definición amplia.
 
 ```
 puesto,iso2,pasaporte,imv,sin_visa,visa_llegada,eta,evisa,visa_previa,sin_admision
-1,AE,"Emiratos Árabes Unidos",169,127,34,8,18,11,0
-2,KR,"Corea del Sur",163,114,38,11,21,14,0
+1,AE,Emiratos Árabes Unidos,169,127,34,8,18,11,0
+2,KR,Corea del Sur,163,114,38,11,21,14,0
 ...
 ```
 
@@ -96,7 +96,19 @@ aportamos la clasificación, el enfoque latinoamericano y la verificación edito
 
 ## Actualizaciones
 
-Revisión trimestral, con nota pública de qué cambió. Versión actual: **2026.1** (2026-08-06).
+Revisión trimestral, con nota pública de qué cambió. Versión actual: **2026.2** (2026-08-06).
+
+### Qué cambió en la 2026.2
+
+Contrastamos los 21 pasaportes más consultados contra una segunda fuente independiente, y donde
+las dos discrepaban resolvimos el caso consultando la fuente oficial del destino. Resultado:
+**3.714 de 3.852 pares verificados (96,4 %)** y **108 clasificaciones corregidas**. Ejemplos:
+Irlanda exige visado a los nicaragüenses desde el 15 de junio de 2026; Cabo Verde sustituyó la
+visa a la llegada por un registro previo obligatorio; Costa de Marfil tramita e-visa y no una
+simple autorización electrónica.
+
+Los **138 pares que siguen abiertos** no llevan fecha de verificación: o la política depende de la
+nacionalidad concreta, o no encontramos fuente oficial. Preferimos marcarlos como pendientes.
 
 ## Cómo citar
 

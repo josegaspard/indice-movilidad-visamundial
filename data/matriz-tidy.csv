@@ -1387,7 +1387,7 @@ AO,ZM,sin visa
 AO,ZW,sin visa
 AR,AD,sin visa
 AR,AE,sin visa
-AR,AF,visa previa
+AR,AF,e-visa
 AR,AG,sin visa
 AR,AL,sin visa
 AR,AM,sin visa
@@ -1417,7 +1417,7 @@ AR,CD,e-visa
 AR,CF,visa previa
 AR,CG,visa previa
 AR,CH,sin visa
-AR,CI,eta
+AR,CI,e-visa
 AR,CL,sin visa
 AR,CM,e-visa
 AR,CN,sin visa
@@ -1485,7 +1485,7 @@ AR,LA,visa a la llegada
 AR,LB,visa a la llegada
 AR,LC,sin visa
 AR,LI,sin visa
-AR,LK,visa a la llegada
+AR,LK,eta
 AR,LR,e-visa
 AR,LS,visa previa
 AR,LT,sin visa
@@ -1536,7 +1536,7 @@ AR,RO,sin visa
 AR,RS,sin visa
 AR,RU,sin visa
 AR,RW,visa a la llegada
-AR,SA,e-visa
+AR,SA,visa previa
 AR,SB,visa a la llegada
 AR,SC,sin visa
 AR,SD,visa previa
@@ -4159,11 +4159,11 @@ BN,ZM,sin visa
 BN,ZW,visa a la llegada
 BO,AD,visa previa
 BO,AE,e-visa
-BO,AF,visa previa
+BO,AF,e-visa
 BO,AG,sin visa
 BO,AL,e-visa
 BO,AM,e-visa
-BO,AO,visa previa
+BO,AO,e-visa
 BO,AR,sin visa
 BO,AT,visa previa
 BO,AU,e-visa
@@ -4189,7 +4189,7 @@ BO,CD,e-visa
 BO,CF,visa previa
 BO,CG,visa previa
 BO,CH,visa previa
-BO,CI,eta
+BO,CI,e-visa
 BO,CL,sin visa
 BO,CM,e-visa
 BO,CN,visa previa
@@ -4257,7 +4257,7 @@ BO,LA,visa a la llegada
 BO,LB,visa previa
 BO,LC,visa a la llegada
 BO,LI,visa previa
-BO,LK,visa a la llegada
+BO,LK,eta
 BO,LR,e-visa
 BO,LS,visa previa
 BO,LT,visa previa
@@ -4308,7 +4308,7 @@ BO,RO,visa previa
 BO,RS,visa previa
 BO,RU,sin visa
 BO,RW,visa a la llegada
-BO,SA,e-visa
+BO,SA,visa previa
 BO,SB,visa previa
 BO,SC,sin visa
 BO,SD,visa previa
@@ -4335,7 +4335,7 @@ BO,TM,visa previa
 BO,TN,visa previa
 BO,TO,visa previa
 BO,TR,sin visa
-BO,TT,visa previa
+BO,TT,e-visa
 BO,TV,visa a la llegada
 BO,TW,visa previa
 BO,TZ,visa a la llegada
@@ -4357,7 +4357,7 @@ BO,ZM,visa a la llegada
 BO,ZW,e-visa
 BR,AD,sin visa
 BR,AE,sin visa
-BR,AF,visa previa
+BR,AF,e-visa
 BR,AG,sin visa
 BR,AL,sin visa
 BR,AM,sin visa
@@ -4387,7 +4387,7 @@ BR,CD,e-visa
 BR,CF,visa previa
 BR,CG,visa previa
 BR,CH,sin visa
-BR,CI,eta
+BR,CI,e-visa
 BR,CL,sin visa
 BR,CM,e-visa
 BR,CN,sin visa
@@ -4455,7 +4455,7 @@ BR,LA,visa a la llegada
 BR,LB,visa a la llegada
 BR,LC,sin visa
 BR,LI,sin visa
-BR,LK,visa a la llegada
+BR,LK,eta
 BR,LR,e-visa
 BR,LS,visa previa
 BR,LT,sin visa
@@ -4506,7 +4506,7 @@ BR,RO,sin visa
 BR,RS,sin visa
 BR,RU,sin visa
 BR,RW,visa a la llegada
-BR,SA,e-visa
+BR,SA,visa previa
 BR,SB,visa a la llegada
 BR,SC,sin visa
 BR,SD,visa previa
@@ -6733,7 +6733,7 @@ CI,ZM,e-visa
 CI,ZW,e-visa
 CL,AD,sin visa
 CL,AE,sin visa
-CL,AF,visa previa
+CL,AF,e-visa
 CL,AG,sin visa
 CL,AL,sin visa
 CL,AM,visa a la llegada
@@ -6764,13 +6764,13 @@ CL,CD,e-visa
 CL,CF,visa previa
 CL,CG,visa previa
 CL,CH,sin visa
-CL,CI,eta
+CL,CI,e-visa
 CL,CM,e-visa
 CL,CN,sin visa
 CL,CO,sin visa
 CL,CR,sin visa
 CL,CU,e-visa
-CL,CV,visa a la llegada
+CL,CV,visa previa
 CL,CY,sin visa
 CL,CZ,sin visa
 CL,DE,sin visa
@@ -6831,7 +6831,7 @@ CL,LA,visa a la llegada
 CL,LB,visa a la llegada
 CL,LC,sin visa
 CL,LI,sin visa
-CL,LK,visa a la llegada
+CL,LK,eta
 CL,LR,e-visa
 CL,LS,visa previa
 CL,LT,sin visa
@@ -6882,7 +6882,7 @@ CL,RO,sin visa
 CL,RS,sin visa
 CL,RU,sin visa
 CL,RW,visa a la llegada
-CL,SA,e-visa
+CL,SA,visa previa
 CL,SB,visa previa
 CL,SC,sin visa
 CL,SD,visa previa
@@ -7327,11 +7327,11 @@ CN,ZM,sin visa
 CN,ZW,visa a la llegada
 CO,AD,sin visa
 CO,AE,sin visa
-CO,AF,visa previa
+CO,AF,e-visa
 CO,AG,sin visa
 CO,AL,sin visa
 CO,AM,e-visa
-CO,AO,visa previa
+CO,AO,e-visa
 CO,AR,sin visa
 CO,AT,sin visa
 CO,AU,e-visa
@@ -7358,13 +7358,13 @@ CO,CD,e-visa
 CO,CF,visa previa
 CO,CG,visa previa
 CO,CH,sin visa
-CO,CI,eta
+CO,CI,e-visa
 CO,CL,sin visa
 CO,CM,e-visa
 CO,CN,visa previa
 CO,CR,visa previa
 CO,CU,e-visa
-CO,CV,visa a la llegada
+CO,CV,visa previa
 CO,CY,sin visa
 CO,CZ,sin visa
 CO,DE,sin visa
@@ -7425,7 +7425,7 @@ CO,LA,visa a la llegada
 CO,LB,visa previa
 CO,LC,visa previa
 CO,LI,sin visa
-CO,LK,visa a la llegada
+CO,LK,eta
 CO,LR,e-visa
 CO,LS,visa previa
 CO,LT,sin visa
@@ -7476,7 +7476,7 @@ CO,RO,sin visa
 CO,RS,sin visa
 CO,RU,sin visa
 CO,RW,visa a la llegada
-CO,SA,e-visa
+CO,SA,visa previa
 CO,SB,visa previa
 CO,SC,sin visa
 CO,SD,visa previa
@@ -7525,7 +7525,7 @@ CO,ZM,visa a la llegada
 CO,ZW,e-visa
 CR,AD,sin visa
 CR,AE,sin visa
-CR,AF,visa previa
+CR,AF,e-visa
 CR,AG,e-visa
 CR,AL,sin visa
 CR,AM,e-visa
@@ -7556,7 +7556,7 @@ CR,CD,e-visa
 CR,CF,visa previa
 CR,CG,visa previa
 CR,CH,sin visa
-CR,CI,eta
+CR,CI,e-visa
 CR,CL,sin visa
 CR,CM,e-visa
 CR,CN,visa previa
@@ -7623,7 +7623,7 @@ CR,LA,visa a la llegada
 CR,LB,visa a la llegada
 CR,LC,sin visa
 CR,LI,sin visa
-CR,LK,visa a la llegada
+CR,LK,eta
 CR,LR,e-visa
 CR,LS,visa previa
 CR,LT,sin visa
@@ -7674,7 +7674,7 @@ CR,RO,sin visa
 CR,RS,sin visa
 CR,RU,sin visa
 CR,RW,visa a la llegada
-CR,SA,e-visa
+CR,SA,visa previa
 CR,SB,visa previa
 CR,SC,sin visa
 CR,SD,visa previa
@@ -7715,7 +7715,7 @@ CR,VC,sin visa
 CR,VE,sin visa
 CR,VN,e-visa
 CR,VU,e-visa
-CR,WS,visa a la llegada
+CR,WS,sin visa
 CR,XK,sin visa
 CR,YE,visa previa
 CR,ZA,sin visa
@@ -7723,11 +7723,11 @@ CR,ZM,sin visa
 CR,ZW,visa a la llegada
 CU,AD,visa previa
 CU,AE,e-visa
-CU,AF,visa previa
+CU,AF,e-visa
 CU,AG,sin visa
 CU,AL,e-visa
 CU,AM,e-visa
-CU,AO,visa previa
+CU,AO,e-visa
 CU,AR,visa previa
 CU,AT,visa previa
 CU,AU,e-visa
@@ -7754,7 +7754,7 @@ CU,CD,e-visa
 CU,CF,visa previa
 CU,CG,visa previa
 CU,CH,visa previa
-CU,CI,eta
+CU,CI,e-visa
 CU,CL,visa previa
 CU,CM,e-visa
 CU,CN,visa previa
@@ -7821,7 +7821,7 @@ CU,LA,visa a la llegada
 CU,LB,visa previa
 CU,LC,sin visa
 CU,LI,visa previa
-CU,LK,visa a la llegada
+CU,LK,eta
 CU,LR,e-visa
 CU,LS,visa previa
 CU,LT,visa previa
@@ -7872,7 +7872,7 @@ CU,RO,visa previa
 CU,RS,visa previa
 CU,RU,sin visa
 CU,RW,visa a la llegada
-CU,SA,e-visa
+CU,SA,visa previa
 CU,SB,visa previa
 CU,SC,sin visa
 CU,SD,visa previa
@@ -9307,7 +9307,7 @@ DM,ZM,sin visa
 DM,ZW,e-visa
 DO,AD,visa previa
 DO,AE,e-visa
-DO,AF,visa previa
+DO,AF,e-visa
 DO,AG,e-visa
 DO,AL,e-visa
 DO,AM,visa a la llegada
@@ -9338,7 +9338,7 @@ DO,CD,e-visa
 DO,CF,visa previa
 DO,CG,visa previa
 DO,CH,visa previa
-DO,CI,eta
+DO,CI,e-visa
 DO,CL,visa previa
 DO,CM,e-visa
 DO,CN,visa previa
@@ -9405,7 +9405,7 @@ DO,LA,visa a la llegada
 DO,LB,visa a la llegada
 DO,LC,visa previa
 DO,LI,visa previa
-DO,LK,visa a la llegada
+DO,LK,eta
 DO,LR,e-visa
 DO,LS,visa previa
 DO,LT,visa previa
@@ -9456,7 +9456,7 @@ DO,RO,visa previa
 DO,RS,visa previa
 DO,RU,sin visa
 DO,RW,visa a la llegada
-DO,SA,e-visa
+DO,SA,visa previa
 DO,SB,visa a la llegada
 DO,SC,sin visa
 DO,SD,visa previa
@@ -9497,7 +9497,7 @@ DO,VC,visa previa
 DO,VE,visa previa
 DO,VN,e-visa
 DO,VU,e-visa
-DO,WS,visa a la llegada
+DO,WS,sin visa
 DO,XK,visa previa
 DO,YE,visa previa
 DO,ZA,visa previa
@@ -9703,7 +9703,7 @@ DZ,ZM,e-visa
 DZ,ZW,visa a la llegada
 EC,AD,visa previa
 EC,AE,sin visa
-EC,AF,visa previa
+EC,AF,e-visa
 EC,AG,sin visa
 EC,AL,e-visa
 EC,AM,sin visa
@@ -9734,7 +9734,7 @@ EC,CD,e-visa
 EC,CF,visa previa
 EC,CG,visa previa
 EC,CH,visa previa
-EC,CI,eta
+EC,CI,e-visa
 EC,CL,sin visa
 EC,CM,e-visa
 EC,CN,sin visa
@@ -9801,7 +9801,7 @@ EC,LA,visa a la llegada
 EC,LB,visa previa
 EC,LC,visa a la llegada
 EC,LI,visa previa
-EC,LK,visa a la llegada
+EC,LK,eta
 EC,LR,e-visa
 EC,LS,visa previa
 EC,LT,visa previa
@@ -9852,7 +9852,7 @@ EC,RO,visa previa
 EC,RS,visa previa
 EC,RU,sin visa
 EC,RW,visa a la llegada
-EC,SA,e-visa
+EC,SA,visa previa
 EC,SB,visa previa
 EC,SC,sin visa
 EC,SD,visa previa
@@ -10495,7 +10495,7 @@ ER,ZM,visa a la llegada
 ER,ZW,e-visa
 ES,AD,sin visa
 ES,AE,sin visa
-ES,AF,visa previa
+ES,AF,e-visa
 ES,AG,sin visa
 ES,AL,sin visa
 ES,AM,sin visa
@@ -10526,7 +10526,7 @@ ES,CD,e-visa
 ES,CF,visa previa
 ES,CG,visa previa
 ES,CH,sin visa
-ES,CI,eta
+ES,CI,e-visa
 ES,CL,sin visa
 ES,CM,e-visa
 ES,CN,sin visa
@@ -13465,11 +13465,11 @@ GR,ZM,sin visa
 GR,ZW,visa a la llegada
 GT,AD,sin visa
 GT,AE,e-visa
-GT,AF,visa previa
+GT,AF,e-visa
 GT,AG,e-visa
 GT,AL,sin visa
 GT,AM,e-visa
-GT,AO,visa previa
+GT,AO,e-visa
 GT,AR,sin visa
 GT,AT,sin visa
 GT,AU,e-visa
@@ -13496,7 +13496,7 @@ GT,CD,e-visa
 GT,CF,visa previa
 GT,CG,visa previa
 GT,CH,sin visa
-GT,CI,eta
+GT,CI,e-visa
 GT,CL,sin visa
 GT,CM,e-visa
 GT,CN,visa previa
@@ -13532,7 +13532,7 @@ GT,GN,e-visa
 GT,GQ,e-visa
 GT,GR,sin visa
 GT,GW,visa a la llegada
-GT,GY,e-visa
+GT,GY,visa previa
 GT,HK,sin visa
 GT,HN,sin visa
 GT,HR,sin visa
@@ -13542,7 +13542,7 @@ GT,ID,visa a la llegada
 GT,IE,sin visa
 GT,IL,eta
 GT,IN,e-visa
-GT,IQ,e-visa
+GT,IQ,visa previa
 GT,IR,visa a la llegada
 GT,IS,sin visa
 GT,IT,sin visa
@@ -13614,7 +13614,7 @@ GT,RO,sin visa
 GT,RS,visa previa
 GT,RU,sin visa
 GT,RW,visa a la llegada
-GT,SA,e-visa
+GT,SA,visa previa
 GT,SB,visa previa
 GT,SC,sin visa
 GT,SD,visa previa
@@ -14257,18 +14257,18 @@ HK,ZM,sin visa
 HK,ZW,sin visa
 HN,AD,sin visa
 HN,AE,sin visa
-HN,AF,visa previa
+HN,AF,e-visa
 HN,AG,e-visa
 HN,AL,sin visa
 HN,AM,e-visa
-HN,AO,visa previa
+HN,AO,e-visa
 HN,AR,sin visa
 HN,AT,sin visa
 HN,AU,e-visa
 HN,AZ,e-visa
 HN,BA,sin visa
 HN,BB,sin visa
-HN,BD,visa a la llegada
+HN,BD,visa previa
 HN,BE,sin visa
 HN,BF,e-visa
 HN,BG,sin visa
@@ -14288,7 +14288,7 @@ HN,CD,e-visa
 HN,CF,visa previa
 HN,CG,visa previa
 HN,CH,sin visa
-HN,CI,eta
+HN,CI,e-visa
 HN,CL,sin visa
 HN,CM,e-visa
 HN,CN,visa previa
@@ -14325,7 +14325,7 @@ HN,GQ,e-visa
 HN,GR,sin visa
 HN,GT,sin visa
 HN,GW,visa a la llegada
-HN,GY,e-visa
+HN,GY,visa previa
 HN,HK,sin visa
 HN,HR,sin visa
 HN,HT,sin visa
@@ -14334,7 +14334,7 @@ HN,ID,e-visa
 HN,IE,visa previa
 HN,IL,eta
 HN,IN,e-visa
-HN,IQ,e-visa
+HN,IQ,visa previa
 HN,IR,visa a la llegada
 HN,IS,sin visa
 HN,IT,sin visa
@@ -14406,7 +14406,7 @@ HN,RO,sin visa
 HN,RS,visa previa
 HN,RU,sin visa
 HN,RW,visa a la llegada
-HN,SA,e-visa
+HN,SA,visa previa
 HN,SB,visa previa
 HN,SC,sin visa
 HN,SD,visa previa
@@ -14447,7 +14447,7 @@ HN,VC,sin visa
 HN,VE,visa previa
 HN,VN,e-visa
 HN,VU,e-visa
-HN,WS,visa a la llegada
+HN,WS,sin visa
 HN,XK,sin visa
 HN,YE,visa previa
 HN,ZA,visa previa
@@ -24553,7 +24553,7 @@ MW,ZM,sin visa
 MW,ZW,sin visa
 MX,AD,sin visa
 MX,AE,sin visa
-MX,AF,visa previa
+MX,AF,e-visa
 MX,AG,sin visa
 MX,AL,sin visa
 MX,AM,visa a la llegada
@@ -24584,14 +24584,14 @@ MX,CD,e-visa
 MX,CF,visa previa
 MX,CG,visa previa
 MX,CH,sin visa
-MX,CI,eta
+MX,CI,e-visa
 MX,CL,sin visa
 MX,CM,e-visa
 MX,CN,visa previa
 MX,CO,sin visa
 MX,CR,sin visa
 MX,CU,e-visa
-MX,CV,visa a la llegada
+MX,CV,visa previa
 MX,CY,sin visa
 MX,CZ,sin visa
 MX,DE,sin visa
@@ -24652,7 +24652,7 @@ MX,LA,visa a la llegada
 MX,LB,visa a la llegada
 MX,LC,sin visa
 MX,LI,sin visa
-MX,LK,visa a la llegada
+MX,LK,eta
 MX,LR,e-visa
 MX,LS,visa previa
 MX,LT,sin visa
@@ -24702,7 +24702,7 @@ MX,RO,sin visa
 MX,RS,sin visa
 MX,RU,e-visa
 MX,RW,visa a la llegada
-MX,SA,e-visa
+MX,SA,visa previa
 MX,SB,visa previa
 MX,SC,sin visa
 MX,SD,visa previa
@@ -25741,11 +25741,11 @@ NG,ZM,e-visa
 NG,ZW,e-visa
 NI,AD,sin visa
 NI,AE,e-visa
-NI,AF,visa previa
+NI,AF,e-visa
 NI,AG,e-visa
 NI,AL,sin visa
 NI,AM,e-visa
-NI,AO,visa previa
+NI,AO,e-visa
 NI,AR,sin visa
 NI,AT,sin visa
 NI,AU,e-visa
@@ -25772,7 +25772,7 @@ NI,CD,e-visa
 NI,CF,visa previa
 NI,CG,visa previa
 NI,CH,sin visa
-NI,CI,eta
+NI,CI,e-visa
 NI,CL,sin visa
 NI,CM,e-visa
 NI,CN,visa previa
@@ -25799,7 +25799,7 @@ NI,FJ,visa previa
 NI,FM,sin visa
 NI,FR,sin visa
 NI,GA,e-visa
-NI,GB,eta
+NI,GB,visa previa
 NI,GD,sin visa
 NI,GE,visa previa
 NI,GH,visa previa
@@ -25809,14 +25809,14 @@ NI,GQ,e-visa
 NI,GR,sin visa
 NI,GT,sin visa
 NI,GW,visa a la llegada
-NI,GY,e-visa
+NI,GY,visa previa
 NI,HK,e-visa
 NI,HN,sin visa
 NI,HR,sin visa
 NI,HT,sin visa
 NI,HU,sin visa
 NI,ID,e-visa
-NI,IE,sin visa
+NI,IE,visa previa
 NI,IL,e-visa
 NI,IN,e-visa
 NI,IQ,e-visa
@@ -25890,7 +25890,7 @@ NI,RO,sin visa
 NI,RS,visa previa
 NI,RU,sin visa
 NI,RW,visa a la llegada
-NI,SA,e-visa
+NI,SA,visa previa
 NI,SB,visa previa
 NI,SC,sin visa
 NI,SD,visa previa
@@ -27127,7 +27127,7 @@ OM,ZM,sin visa
 OM,ZW,e-visa
 PA,AD,sin visa
 PA,AE,e-visa
-PA,AF,visa previa
+PA,AF,e-visa
 PA,AG,sin visa
 PA,AL,sin visa
 PA,AM,visa a la llegada
@@ -27158,7 +27158,7 @@ PA,CD,e-visa
 PA,CF,visa previa
 PA,CG,visa previa
 PA,CH,sin visa
-PA,CI,eta
+PA,CI,e-visa
 PA,CL,sin visa
 PA,CM,e-visa
 PA,CN,visa previa
@@ -27325,11 +27325,11 @@ PA,ZM,sin visa
 PA,ZW,visa a la llegada
 PE,AD,sin visa
 PE,AE,sin visa
-PE,AF,visa previa
+PE,AF,e-visa
 PE,AG,sin visa
 PE,AL,sin visa
 PE,AM,visa a la llegada
-PE,AO,visa previa
+PE,AO,e-visa
 PE,AR,sin visa
 PE,AT,sin visa
 PE,AU,e-visa
@@ -27356,14 +27356,14 @@ PE,CD,e-visa
 PE,CF,visa previa
 PE,CG,visa previa
 PE,CH,sin visa
-PE,CI,eta
+PE,CI,e-visa
 PE,CL,sin visa
 PE,CM,e-visa
 PE,CN,sin visa
 PE,CO,sin visa
 PE,CR,sin visa
 PE,CU,e-visa
-PE,CV,visa a la llegada
+PE,CV,visa previa
 PE,CY,sin visa
 PE,CZ,sin visa
 PE,DE,sin visa
@@ -27424,7 +27424,7 @@ PE,LA,visa a la llegada
 PE,LB,visa a la llegada
 PE,LC,visa a la llegada
 PE,LI,sin visa
-PE,LK,visa a la llegada
+PE,LK,eta
 PE,LR,e-visa
 PE,LS,visa previa
 PE,LT,sin visa
@@ -27474,7 +27474,7 @@ PE,RO,sin visa
 PE,RS,sin visa
 PE,RU,sin visa
 PE,RW,visa a la llegada
-PE,SA,e-visa
+PE,SA,visa previa
 PE,SB,visa previa
 PE,SC,sin visa
 PE,SD,visa previa
@@ -28909,11 +28909,11 @@ PW,ZM,sin visa
 PW,ZW,visa a la llegada
 PY,AD,sin visa
 PY,AE,sin visa
-PY,AF,visa previa
+PY,AF,e-visa
 PY,AG,e-visa
 PY,AL,sin visa
 PY,AM,e-visa
-PY,AO,visa previa
+PY,AO,e-visa
 PY,AR,sin visa
 PY,AT,sin visa
 PY,AU,e-visa
@@ -28940,7 +28940,7 @@ PY,CD,e-visa
 PY,CF,visa previa
 PY,CG,visa previa
 PY,CH,sin visa
-PY,CI,eta
+PY,CI,e-visa
 PY,CL,sin visa
 PY,CM,e-visa
 PY,CN,visa previa
@@ -29058,7 +29058,7 @@ PY,RO,sin visa
 PY,RS,sin visa
 PY,RU,sin visa
 PY,RW,visa a la llegada
-PY,SA,e-visa
+PY,SA,visa previa
 PY,SB,visa previa
 PY,SC,sin visa
 PY,SD,visa previa
@@ -33067,7 +33067,7 @@ ST,ZM,sin visa
 ST,ZW,visa a la llegada
 SV,AD,sin visa
 SV,AE,sin visa
-SV,AF,visa previa
+SV,AF,e-visa
 SV,AG,e-visa
 SV,AL,sin visa
 SV,AM,e-visa
@@ -33135,7 +33135,7 @@ SV,GQ,e-visa
 SV,GR,sin visa
 SV,GT,sin visa
 SV,GW,visa a la llegada
-SV,GY,e-visa
+SV,GY,visa previa
 SV,HK,sin visa
 SV,HN,sin visa
 SV,HR,sin visa
@@ -33217,7 +33217,7 @@ SV,RO,sin visa
 SV,RS,visa previa
 SV,RU,sin visa
 SV,RW,visa a la llegada
-SV,SA,e-visa
+SV,SA,visa previa
 SV,SB,visa previa
 SV,SC,sin visa
 SV,SD,visa previa
@@ -33257,7 +33257,7 @@ SV,VC,sin visa
 SV,VE,visa previa
 SV,VN,e-visa
 SV,VU,e-visa
-SV,WS,visa a la llegada
+SV,WS,sin visa
 SV,XK,sin visa
 SV,YE,visa previa
 SV,ZA,visa previa
@@ -36631,7 +36631,7 @@ UG,ZM,sin visa
 UG,ZW,sin visa
 US,AD,sin visa
 US,AE,sin visa
-US,AF,visa previa
+US,AF,e-visa
 US,AG,sin visa
 US,AL,sin visa
 US,AM,sin visa
@@ -36662,7 +36662,7 @@ US,CD,e-visa
 US,CF,visa previa
 US,CG,visa previa
 US,CH,sin visa
-US,CI,eta
+US,CI,e-visa
 US,CL,sin visa
 US,CM,e-visa
 US,CN,visa previa
@@ -36692,7 +36692,7 @@ US,GA,e-visa
 US,GB,eta
 US,GD,sin visa
 US,GE,sin visa
-US,GH,visa previa
+US,GH,e-visa
 US,GM,visa a la llegada
 US,GN,e-visa
 US,GQ,e-visa
@@ -36722,7 +36722,7 @@ US,KH,visa a la llegada
 US,KI,sin visa
 US,KM,visa a la llegada
 US,KN,eta
-US,KP,visa previa
+US,KP,sin admision
 US,KR,sin visa
 US,KW,visa a la llegada
 US,KZ,sin visa
@@ -36730,7 +36730,7 @@ US,LA,visa a la llegada
 US,LB,visa a la llegada
 US,LC,sin visa
 US,LI,sin visa
-US,LK,visa a la llegada
+US,LK,eta
 US,LR,visa previa
 US,LS,sin visa
 US,LT,sin visa
@@ -36744,7 +36744,7 @@ US,ME,sin visa
 US,MG,visa a la llegada
 US,MH,sin visa
 US,MK,sin visa
-US,ML,visa previa
+US,ML,sin admision
 US,MM,e-visa
 US,MN,sin visa
 US,MO,sin visa
@@ -36755,7 +36755,7 @@ US,MV,visa a la llegada
 US,MW,sin visa
 US,MX,sin visa
 US,MY,sin visa
-US,MZ,sin visa
+US,MZ,eta
 US,NA,visa a la llegada
 US,NE,visa previa
 US,NG,e-visa
@@ -36815,7 +36815,7 @@ US,TZ,visa a la llegada
 US,UA,sin visa
 US,UG,e-visa
 US,UY,sin visa
-US,UZ,e-visa
+US,UZ,sin visa
 US,VA,sin visa
 US,VC,sin visa
 US,VE,visa previa
@@ -36829,7 +36829,7 @@ US,ZM,sin visa
 US,ZW,visa a la llegada
 UY,AD,sin visa
 UY,AE,sin visa
-UY,AF,visa previa
+UY,AF,e-visa
 UY,AG,e-visa
 UY,AL,sin visa
 UY,AM,sin visa
@@ -36860,7 +36860,7 @@ UY,CD,e-visa
 UY,CF,visa previa
 UY,CG,visa previa
 UY,CH,sin visa
-UY,CI,eta
+UY,CI,e-visa
 UY,CL,sin visa
 UY,CM,e-visa
 UY,CN,sin visa
@@ -36979,7 +36979,7 @@ UY,RO,sin visa
 UY,RS,sin visa
 UY,RU,sin visa
 UY,RW,visa a la llegada
-UY,SA,e-visa
+UY,SA,visa previa
 UY,SB,visa previa
 UY,SC,sin visa
 UY,SD,visa previa
@@ -37019,7 +37019,7 @@ UY,VC,sin visa
 UY,VE,sin visa
 UY,VN,e-visa
 UY,VU,sin visa
-UY,WS,visa a la llegada
+UY,WS,sin visa
 UY,XK,sin visa
 UY,YE,visa previa
 UY,ZA,sin visa
@@ -37621,11 +37621,11 @@ VC,ZM,sin visa
 VC,ZW,sin visa
 VE,AD,sin visa
 VE,AE,e-visa
-VE,AF,visa previa
+VE,AF,e-visa
 VE,AG,sin visa
 VE,AL,sin visa
 VE,AM,e-visa
-VE,AO,visa previa
+VE,AO,e-visa
 VE,AR,sin visa
 VE,AT,sin visa
 VE,AU,e-visa
@@ -37652,7 +37652,7 @@ VE,CD,e-visa
 VE,CF,visa previa
 VE,CG,visa previa
 VE,CH,sin visa
-VE,CI,eta
+VE,CI,e-visa
 VE,CL,visa previa
 VE,CM,e-visa
 VE,CN,visa previa
@@ -37689,7 +37689,7 @@ VE,GQ,e-visa
 VE,GR,sin visa
 VE,GT,visa previa
 VE,GW,visa a la llegada
-VE,GY,e-visa
+VE,GY,visa previa
 VE,HK,sin visa
 VE,HN,visa previa
 VE,HR,sin visa
@@ -37765,13 +37765,13 @@ VE,PL,sin visa
 VE,PS,sin visa
 VE,PT,sin visa
 VE,PW,visa a la llegada
-VE,PY,sin visa
+VE,PY,visa previa
 VE,QA,visa a la llegada
 VE,RO,sin visa
 VE,RS,sin visa
 VE,RU,sin visa
 VE,RW,visa a la llegada
-VE,SA,e-visa
+VE,SA,visa previa
 VE,SB,visa previa
 VE,SC,sin visa
 VE,SD,visa previa
@@ -37798,7 +37798,7 @@ VE,TM,visa previa
 VE,TN,visa previa
 VE,TO,visa previa
 VE,TR,sin visa
-VE,TT,visa previa
+VE,TT,e-visa
 VE,TV,visa a la llegada
 VE,TW,visa previa
 VE,TZ,visa a la llegada
@@ -37811,7 +37811,7 @@ VE,VA,sin visa
 VE,VC,sin visa
 VE,VN,e-visa
 VE,VU,e-visa
-VE,WS,visa a la llegada
+VE,WS,sin visa
 VE,XK,sin visa
 VE,YE,visa previa
 VE,ZA,sin visa
