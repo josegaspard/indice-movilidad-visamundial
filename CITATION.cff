@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cita el Índice de Movilidad VisaMundial así. / If you use this dataset, please cite it as below."
+type: dataset
+title: "Índice de Movilidad VisaMundial (IMV) 2026"
+version: "2026.2"
+date-released: 2026-08-06
+authors:
+  - name: "VisaMundial"
+    website: "https://visamundial.com/"
+    email: "editorial@visamundial.com"
+license: CC-BY-4.0
+url: "https://visamundial.com/indice/"
+repository-code: "https://github.com/josegaspard/indice-movilidad-visamundial"
+abstract: "Requisitos de visado de 199 pasaportes hacia 199 destinos (39.402 pares), clasificados en sin visa, visa a la llegada, eTA, e-visa, visa previa y sin admisión, con foco en América Latina. Metodología: https://visamundial.com/indice/metodologia/"
+keywords:
+  - visa requirements
+  - passport index
+  - open data
+  - latin america
+  - requisitos de visa
